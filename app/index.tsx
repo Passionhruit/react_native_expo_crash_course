@@ -13,7 +13,7 @@ export default function Index() {
           color: "blue",
         }}
       >
-        Go to Profile
+        Go to Home
       </Link>
     </View>
   );

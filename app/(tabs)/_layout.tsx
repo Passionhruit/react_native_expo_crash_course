@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const AuthLayout = () => {
+const TapsLayout = () => {
   return (
     <View>
-      <Text>AuthLayout</Text>
+      <Text>TapsLayout</Text>
     </View>
   );
 };
 
-export default AuthLayout;
+export default TapsLayout;
