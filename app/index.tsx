@@ -8,7 +8,7 @@ export default function Index() {
       <Text className="text-3xl font-pblack">Aora!</Text>
       <StatusBar style="auto" />
       <Link
-        href="/"
+        href="/home"
         style={{
           color: "blue",
         }}
